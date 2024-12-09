@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="a" x1="0.5" y1="1.142" x2="0.5" y2="-0.105" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9a606"></stop>
+      <stop offset="1" stop-color="#fbcc5f"></stop>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="24" fill="url(#a)"></circle>
+  <path d="M173.019,166.138H170.17c-1.568-4.353-5.786-7.338-11.347-7.338h-9.146v7.338H146.5v2.633h3.177v2.761H146.5v2.633h3.177v7.25h9.146c5.5,0,9.683-2.961,11.291-7.25h2.9v-2.633h-2.265a11.942,11.942,0,0,0,.088-1.424v-.064c0-.432-.024-.856-.064-1.272h2.249v-2.633Zm-20.781-4.993h6.586c4.081,0,7.114,2.009,8.514,4.985h-15.1Zm6.586,17.9h-6.586v-4.889h15.084C165.913,177.085,162.888,179.045,158.823,179.045Zm9.37-8.882a9.467,9.467,0,0,1-.1,1.36h-15.86v-2.761h15.868a10.412,10.412,0,0,1,.088,1.336Z" transform="translate(-134.777 -146.093)" fill="#fff"></path>
+</svg>

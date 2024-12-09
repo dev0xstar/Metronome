@@ -1,0 +1,19 @@
+a {
+	color: #259da8;
+	text-decoration: none;
+
+	&:hover,
+	&:focus,
+	&:active {
+		color: #259da8;
+	}
+
+	&:focus {
+		outline: thin dotted;
+	}
+
+	&:hover,
+	&:active {
+		outline: 0;
+	}
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <circle cx="24" cy="24" r="24" transform="translate(0 0)" fill="#627eea"></circle>
+  <g transform="translate(14.606 9.231)">
+    <path d="M-41.326,234.96V223.908l-9.394,14.92Z" transform="translate(50.72 -223.908)" fill="#fff" opacity="0.6"></path>
+    <path d="M-43.556,234.96V223.908l9.394,14.92Z" transform="translate(52.95 -223.908)" fill="#fff" opacity="0.8"></path>
+    <path d="M-41.326,232.336v9.394L-50.72,236.2Z" transform="translate(50.72 -221.284)" fill="#fff" opacity="0.8"></path>
+    <path d="M-43.556,232.336v9.394l9.394-5.526Z" transform="translate(52.95 -221.284)" fill="#fff"></path>
+    <path d="M-50.72,236.971l9.394,5.524v7.184Z" transform="translate(50.72 -219.841)" fill="#fff" opacity="0.6"></path>
+    <path d="M-34.162,236.971l-9.394,5.524v7.184Z" transform="translate(52.95 -219.841)" fill="#fff" opacity="0.8"></path>
+  </g>
+</svg>
